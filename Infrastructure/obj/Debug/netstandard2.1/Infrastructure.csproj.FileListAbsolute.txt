@@ -1,0 +1,12 @@
+D:\Visual Projects\skinet\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+D:\Visual Projects\skinet\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+D:\Visual Projects\skinet\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+D:\Visual Projects\skinet\Infrastructure\bin\Debug\netstandard2.1\Core.dll
+D:\Visual Projects\skinet\Infrastructure\bin\Debug\netstandard2.1\Core.pdb
+D:\Visual Projects\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csprojAssemblyReference.cache
+D:\Visual Projects\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+D:\Visual Projects\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+D:\Visual Projects\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CopyComplete
+D:\Visual Projects\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+D:\Visual Projects\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb
+D:\Visual Projects\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
