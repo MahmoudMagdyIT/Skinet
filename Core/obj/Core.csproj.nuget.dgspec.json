@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Projects\\Skinet\\Core\\Core.csproj": {}
+    "D:\\Visual Projects\\skinet\\Core\\Core.csproj": {}
   },
   "projects": {
-    "D:\\Visual Projects\\Skinet\\Core\\Core.csproj": {
+    "D:\\Visual Projects\\skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Projects\\Skinet\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Visual Projects\\skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Visual Projects\\Skinet\\Core\\Core.csproj",
+        "projectPath": "D:\\Visual Projects\\skinet\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Projects\\Skinet\\Core\\obj\\",
+        "outputPath": "D:\\Visual Projects\\skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
