@@ -5888,11 +5888,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Projects\\skinet\\api\\API.csproj",
+      "projectUniqueName": "D:\\Visual Projects\\Skinet\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Visual Projects\\skinet\\api\\API.csproj",
+      "projectPath": "D:\\Visual Projects\\Skinet\\api\\API.csproj",
       "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Projects\\skinet\\api\\obj\\",
+      "outputPath": "D:\\Visual Projects\\Skinet\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5908,8 +5908,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Visual Projects\\skinet\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\Visual Projects\\skinet\\Infrastructure\\Infrastructure.csproj"
+            "D:\\Visual Projects\\Skinet\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\Visual Projects\\Skinet\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
