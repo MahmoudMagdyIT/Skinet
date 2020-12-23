@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QhYThkt2VdhNHP30Pm4B+d3K7qz8nc1QZwmdD4tpYVheMAb/8ZjLFzA4Dh6QwHnpjSwAMwJFBw7A6tk/2RFs9Q==",
+  "dgSpecHash": "emjqtRUW+m+u0BG4OWuCz3p8wGphuEC4xe3azID20OySERyQ/xpp6VmhcT5uBv/NEVAU2rnAUmfG2+rIS2LEgQ==",
   "success": true,
-  "projectFilePath": "D:\\Visual Projects\\Skinet\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\Visual Projects\\skinet\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.0\\microsoft.data.sqlite.core.5.0.0.nupkg.sha512",
